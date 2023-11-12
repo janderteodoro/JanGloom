@@ -1,0 +1,26 @@
+{
+  "name": "janderteodoro",
+  "displayName": "JanGloom",
+  "description": "my perfect theme",
+  "version": "0.0.1",
+  "publisher": "janderteodoro",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janderteodoro/JanGloom"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jander Teodoro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JanGloom-color-theme.json"
+      }
+    ]
+  }
+}
